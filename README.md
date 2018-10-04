@@ -1,4 +1,4 @@
-# Mate Academy Frontend practice with html forms
+# Frontend practice with html forms
 
 ## The task:
 Create HTML page with form which send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`.
