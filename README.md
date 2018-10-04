@@ -2,7 +2,6 @@
 
 ## The task:
 Create HTML page with form which send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`.
-The form should be similar to DS-160 US visa form - https://ceac.state.gov/GenNIV/
 
 Screenshot of this form:
 
