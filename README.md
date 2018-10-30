@@ -50,3 +50,10 @@ How to run:
 Full guide: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
 To push changes on production do `git push heroku master`
+
+## Common mistakes
+* Validate your html with https://validator.w3.org/
+* Every field should have name attribute
+* Every field should have label, which focuses input on label click
+* Do not use tabs. Use 2 spaces for indentation
+* Most of the time you want each tag in new line
