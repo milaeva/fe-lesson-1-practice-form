@@ -1,7 +1,10 @@
 # Frontend practice with html forms
 
 ## The task:
-Create HTML page with form which send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`.
+Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`.
+
+### Stretch goal:
+Send data with AJAX instead of standard form submission.
 
 Screenshot of this form:
 
