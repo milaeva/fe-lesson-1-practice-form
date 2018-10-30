@@ -4,7 +4,7 @@
 Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`.
 
 ### Stretch goal:
-Send data with AJAX instead of standard form submission.
+Send data with AJAX instead of standard form submission. When trying to achieve this, you'll learn what's [CORS](https://www.html5rocks.com/en/tutorials/cors/). Learn how to workaround it. Try to find a working solution.
 
 Screenshot of this form:
 
