@@ -33,7 +33,7 @@ Form should have different inputs with such types:
   - color
   - date
 
-Also form should has textarea ans select elements.
+Also form should has textarea and select elements.
   
 Every field should has label which focus the input by click.
 Every field should has name attribute.
